@@ -5,4 +5,7 @@ def helloWorld:
 
 
 helloWorld()
-
+print('test')
+print('hi')
+name = input()
+print(name)
